@@ -40,5 +40,7 @@ En etterspørsel reiser ned listen av endpoint filter før handeleren kjører og
 	- rekkefølgen av filtrene er viktig!
 	- filter kan også crashe en pipeline, som kan føre at neste filter eller handleren ikke nåes. 
 
-Gjøre Endpoint filter reusable:
-	
+Gjøre Endpoint filter reusable 
+- Du kan lage et låse filter som legger inn GUID fra de tingene du ønsker å låse, det vil da kunne gjøre at de tingene du har låst ikke kan slettes eller endres form et eks. 
+- Du kan ved å bruide GUID lage en funksjon som håndterer f.eks. alle get eller slikt for å gjøre koden gjenbrukbar. 
+
