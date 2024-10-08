@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25ed3d544e34e9b1",
+        "id": "a3b44c196f5a3cf8",
         "type": "tabs",
         "children": [
           {
-            "id": "19fcca874a60e6c7",
+            "id": "370f4f5bb478c762",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implementing Business Logic with Endpoint Filters.md",
+                "file": "Documenting your minimal API.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementing Business Logic with Endpoint Filters.md",
+                "file": "Documenting your minimal API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implementing Business Logic with Endpoint Filters.md",
+                "file": "Documenting your minimal API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implementing Business Logic with Endpoint Filters.md"
+                "file": "Documenting your minimal API.md"
               }
             }
           }
@@ -147,11 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19fcca874a60e6c7",
+  "active": "370f4f5bb478c762",
   "lastOpenFiles": [
-    "Handling Exceptions and Logging.md",
     "Implementing Business Logic with Endpoint Filters.md",
     "Manipulating Resources.md",
+    "Securing your minimal API.md",
+    "Documenting your minimal API.md",
+    "Pasted image 20241008131321.png",
+    "Pasted image 20241008131140.png",
+    "Pasted image 20241008131113.png",
+    "Pasted image 20241008123556.png",
+    "Handling Exceptions and Logging.md",
     "Structuring Your Minimal API.md",
     "Learning about core concepts and reading Resources.md",
     "Building ASP.NET Core Minimal API.md",
