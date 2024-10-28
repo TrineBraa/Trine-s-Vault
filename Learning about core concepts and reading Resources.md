@@ -57,7 +57,7 @@ https://learn.microsoft.com/en-us/aspnet/core/fundamentals/routing?view=aspnetco
 Prosessen av å matche HTTP metode og URL til en spesifikk route handler. 
 Routing er en essensiell del av å bygge en API uansett hvilken du bygger.
 
-aoo.MapAction funksjoner
+app.MapAction funksjoner
 	-Action er http funksjonen.
 	MapGet - Denne leser alle data 
 	MapPost - Denne poster en ny data 
